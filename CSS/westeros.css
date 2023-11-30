@@ -1,0 +1,39 @@
+html,body {
+    margin: 0;
+    color: #333;
+    background-color: #eee;
+    font: sans-serif;
+}
+
+body{
+    padding: 20px;
+
+}
+
+h1,h2,h3{
+    color:blue;
+}
+.post-entry-info{
+    color:blueviolet;
+    font-size: small;
+    display: inline-block;
+}
+.post-entry-info ul a{
+    color:blueviolet;
+    font-size: small;
+    display: inline-block;
+}
+
+li {
+    display: list-item;
+   padding: 10px;
+}
+
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
